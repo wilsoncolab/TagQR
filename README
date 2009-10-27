@@ -1,0 +1,9 @@
+TagQR button provides a visitor to your site with a trackable QR code that can be printed and used anywhere.  Currently, this is achieved via the Bit.ly and Google Charts API's.  
+
+This project is aimed at spreading awareness and use of QR codes, by making them more accessible by establishing patterns and providing resources.
+
+
+The script for the button button is based on John Resig's Easy Retweet Button
+
+License:
+http://www.opensource.org/licenses/mit-license.php
