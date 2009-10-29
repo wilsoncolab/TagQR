@@ -1,11 +1,6 @@
-/*
- * Easy Retweet Button
- * http://ejohn.org/blog/retweet/
- *   by John Resig (ejohn.org)
- *
- * Licensed under the MIT License:
- * http://www.opensource.org/licenses/mit-license.php
- */
+/* TagQR Button
+/* http://tagqr.com
+*/
 
 (function(){
 
@@ -152,7 +147,7 @@ function loaded(){
 
 		elem.innerHTML = "<span>" + TagQR.link_text + "</span>";
 		elem.title = "";
-		elem.href = "http://wilsoncolab.com/tagqr/tagqr.html?url=" +
+		elem.href = "http://tagqr.com?url=" +
 			("http://bit.ly/");
 
 		if ( urlElem[ href ] ) {
