@@ -13,17 +13,18 @@ window.TagQR = {
 	bitly_key: "R_7aa1adc26c0d902799b929d4cd8091be",
 
 	// The text to replace the links with
-	link_text: "&nbsp;TagQR",
+	link_text: "TagQR",
 
 	// What # to show (Use "clicks" for # of clicks or "none" for nothing)
 	count_type: "clicks",
 
 	// Style information
 	styling: "a.tagqr { font: 12px Helvetica,Arial; color: #000; text-decoration: none; border: 0px; padding: 2px; }" +
-		"a.tagqr span { background: #009B95; border: 1px solid #006561; color: #fff; float: left; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; margin-left: 2px; padding: 3px 4px 2px; }" +
+		"a.tagqr span { background: #009B95; border: 1px solid #006561; color: #fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; margin-left: 2px; padding: 3px 4px 2px; }" +
 		"a.vert { display: block; text-align: center; font-size: 16px; float: left; margin: 4px; }" +
 		"a.tagqr strong.vert { display: block; margin-bottom: 4px; background: #F5F5F5; border: 1px solid #EEE; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; padding: 3px; }" +
-		"a.tagqr span.vert { display: block; font-size: 12px; margin-left: 0px; }"
+    "a.tagqr span.vert { display: block; font-size: 12px; margin-left: 0px; }"
+    
 };
 
 //////////////// No Need to Configure Below Here ////////////////
